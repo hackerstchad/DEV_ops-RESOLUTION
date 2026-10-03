@@ -2,7 +2,7 @@
 
 # 🚀 DEVOPS ULTIMATE MASTERY GUIDE
 
-**Version 2025 | De Zéro à Expert | 100% Open Source Mindset**
+**Version 2026 | De Zéro à Expert | 100% Open Source Mindset**
 
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins%20%7C%20GitHub%20Actions%20%7C%20GitLab%20CI-blue)](https://github.com)
 [![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-orange)](https://aws.amazon.com)
