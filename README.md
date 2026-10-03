@@ -2,6 +2,9 @@
 
 # 🚀 DEVOPS ULTIMATE MASTERY GUIDE
 
+<img width="1248" height="832" alt="OIG3 (12)" src="https://github.com/user-attachments/assets/8ab307a9-41e2-49a6-b3e0-73ecdc13b5d7" />
+
+
 **Version 2026 | De Zéro à Expert | 100% Open Source Mindset**
 
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins%20%7C%20GitHub%20Actions%20%7C%20GitLab%20CI-blue)](https://github.com)
@@ -1630,8 +1633,12 @@ Que vous soyez débutant ou expert, ce guide reste une référence vivante. Le p
 
 <div align="center">
 
+Auteur
+
+Hackers_tchad
+
 **🌟 Si ce guide vous a été utile, partagez-le et contribuez ! 🌟**
 
-*Dernière mise à jour : 2025*
+*Dernière mise à jour : 2026*
 
 </div>
